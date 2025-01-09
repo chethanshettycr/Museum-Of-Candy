@@ -1,5 +1,5 @@
 <h1 align="center">Museum Of Candy</h1>
-<img align="right" alt="Preview" src="https://github.com/user-attachments/assets/58f14870-f317-4c41-bdba-ed84ff358935">
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/58f14870-f317-4c41-bdba-ed84ff358935">
 
 A visually delightful, frontend-only project built with **HTML** and **CSS**. "Museum of Candy" captures the essence of a sweet-themed website with an emphasis on responsive design and aesthetic UI elements.  
 

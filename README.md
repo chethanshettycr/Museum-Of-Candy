@@ -1,8 +1,5 @@
 <h1 align="center">Museum Of Candy</h1>
 
-
-# Museum of Candy  
-
 A visually delightful, frontend-only project built with **HTML** and **CSS**. "Museum of Candy" captures the essence of a sweet-themed website with an emphasis on responsive design and aesthetic UI elements.  
 
 ## Features  

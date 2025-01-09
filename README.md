@@ -1,5 +1,4 @@
 <h1 align="center">Museum Of Candy</h1>
-<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/d2cb9e62-36da-4b13-85fd-2832934d23f5">
 
 
 # Museum of Candy  
@@ -12,19 +11,9 @@ A visually delightful, frontend-only project built with **HTML** and **CSS**. "M
 - **Thematic Elements**: Candy-themed visuals for an engaging experience.  
 
 ## Preview  
-Since this project is designed to run locally, we have included screenshots below to showcase the UI.  
+Since this project is designed to run locally, I have included screenshots below to showcase the UI.  
 
 ### Screenshots  
-#### 1. Homepage  
-![Homepage Screenshot](path-to-your-screenshot1.png)  
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/d2cb9e62-36da-4b13-85fd-2832934d23f5">
 
-#### 2. About Section  
-![About Section Screenshot](path-to-your-screenshot2.png)  
 
-#### 3. Additional Section (if applicable)  
-![Additional Section Screenshot](path-to-your-screenshot3.png)  
-
-## How to View Locally  
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-username/museum-of-candy.git

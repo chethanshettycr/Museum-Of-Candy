@@ -1,5 +1,6 @@
 <h1 align="center">Museum Of Candy</h1>
-<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/6bf0f5f3-ae0a-40e0-87d6-bd31b6389eb6">
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/d2cb9e62-36da-4b13-85fd-2832934d23f5">
+
 
 <h2 align="center"> </h2>
 Resonance is a KWGT Widget Pack for Dynamic Home Screen Setups for Android 

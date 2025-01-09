@@ -2,19 +2,29 @@
 <img align="center" alt="Preview" src="https://github.com/user-attachments/assets/d2cb9e62-36da-4b13-85fd-2832934d23f5">
 
 
-<h2 align="center"> </h2>
-Resonance is a KWGT Widget Pack for Dynamic Home Screen Setups for Android 
+# Museum of Candy  
 
-This KWGT widget pack offers a unique, futuristic experience for Android users, enabling them to create sleek, dynamic home screens with ease. The pack includes two custom-designed home screen setups that adapt to both dark and light modes, changing seamlessly based on the time of day. With widgets ranging from calendar displays to storage and weather information, this pack is perfect for users seeking both functionality and a modern aesthetic.
+A visually delightful, frontend-only project built with **HTML** and **CSS**. "Museum of Candy" captures the essence of a sweet-themed website with an emphasis on responsive design and aesthetic UI elements.  
 
-<h2 align="left">Features:</h2>
+## Features  
+- **Responsive Design**: Ensures seamless viewing on all devices.  
+- **Bootstrap Integration**: For enhanced styling and layout.  
+- **Thematic Elements**: Candy-themed visuals for an engaging experience.  
 
-**Dynamic Theme**: Widgets automatically switch between dark and light themes, enhancing usability in various lighting conditions.
+## Preview  
+Since this project is designed to run locally, we have included screenshots below to showcase the UI.  
 
-<img align="center" alt="Preview of Widget 1" src="https://github.com/user-attachments/assets/aa9683e5-7945-4565-8ef6-f7935a878b4f">
-<h2 align="center"> </h2>
+### Screenshots  
+#### 1. Homepage  
+![Homepage Screenshot](path-to-your-screenshot1.png)  
 
-**Minimalistic & Functional**: Crafted with a minimal style, the widgets provide essential information like time, date, weather, storage, and quick access to apps.
+#### 2. About Section  
+![About Section Screenshot](path-to-your-screenshot2.png)  
 
-<img align="center" alt="Preview of Widget 2" src="https://github.com/user-attachments/assets/1c12de64-74e6-4839-89ed-7928c21d2b5f">
-<h2 align="center"> </h2>
+#### 3. Additional Section (if applicable)  
+![Additional Section Screenshot](path-to-your-screenshot3.png)  
+
+## How to View Locally  
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/your-username/museum-of-candy.git

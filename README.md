@@ -12,5 +12,5 @@ Since this project is designed to run locally, I have included screenshots below
 
 ### Screenshots  
 <img align="center" alt="Preview" src="https://github.com/user-attachments/assets/d2cb9e62-36da-4b13-85fd-2832934d23f5">
-
-
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/6c4273ac-45b9-4d71-ac53-e43a9ee98d74">
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/fce901bc-b965-40dd-ada1-e9d50681dfae">

@@ -18,3 +18,9 @@ Since this project is designed to run locally, I have included screenshots below
 3/3
 <img align="center" alt="Preview" src="https://github.com/user-attachments/assets/fce901bc-b965-40dd-ada1-e9d50681dfae">
 
+## How to View Locally?  
+- **Download as a ZIP File**: Click on the green "Code" button and select "Download ZIP".
+- Extract the ZIP file to your desired location.
+- Open the index.html file in any modern web browser to view the project.
+
+

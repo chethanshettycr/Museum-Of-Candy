@@ -22,6 +22,6 @@ Since this project is designed to run locally, I have included screenshots below
 - **Download as a ZIP File**: Click on the "Code" button and select "Download ZIP".
 - Extract the ZIP file to your desired location.
 - Open the index.html file in any modern web browser to view the project.
-- Ensure all files remain in the same directory as shown in above folder (i.e, museum-of-candy-Bootstrap-main).
+- Ensure all files remain in the same directory as shown in above folder.
 
 
